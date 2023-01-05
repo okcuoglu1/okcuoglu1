@@ -23,9 +23,10 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okcuoglu1&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
         </a>
     </div>
-    <div>
+    
        
 .. image:: https://wakatime.com/share/@b929d3c7-e202-4e0e-9db5-88deba5c38fb/7d5ebd8a-b994-40e7-b086-76867c625bc1.png
     :target: https://wakatime.com/
+        <div>
     
     
