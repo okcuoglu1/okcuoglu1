@@ -1,14 +1,8 @@
 ### HELLO👋
 
-<!--
-**okcuoglu1/okcuoglu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java 
-- 🌱 I’m currently learning Swift
 - 📫 How to reach me:okcuoglucemil@gmail.com
--->
+
 
 <div align="center">
     <div>
