@@ -5,7 +5,6 @@
 
 
 <div align="center">
-    
     <div>
         <a href="https://github.com/okcuoglu1/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=okcuoglu1&row=1&column=7&theme=tokyonight" alt="okcuoglu1" />
