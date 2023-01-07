@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Java 
 - 📫 How to reach me:okcuoglucemil@gmail.com
+-🚀  How to connect with me: https://www.linkedin.com/in/cemil-okcuoglu/
 
 
 ![Cemil's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcuoglu1&show_icons=true&theme=tokyonight&hide_border=true) 
