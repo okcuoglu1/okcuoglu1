@@ -1,10 +1,10 @@
 ### HELLO👋
 
-- 🔭 I’m currently working on Java 
+- 🔭 I’m currently learning on Java.
 
-- 📫 How to reach me: okcuoglucemil@gmail.com
+- 📫 How to reach me : okcuoglucemil@gmail.com
 
-- 🚀  How to connect with me: https://www.linkedin.com/in/cemil-okcuoglu/
+- 🚀  How to connect with me : https://www.linkedin.com/in/cemil-okcuoglu/
 
 
  
