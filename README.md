@@ -1,6 +1,6 @@
 ### HELLO👋
 
-- 🔭 I’m currently learning on Java.
+- 🔭 I’m currently learning on Spring.
 
 - 📫 How to reach me : okcuoglucemil@gmail.com
 
