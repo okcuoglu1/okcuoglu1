@@ -1,6 +1,5 @@
 ### HELLO👋
 
-- 🔭 I’m currently learning on Spring Boot.
 
 - 📫 How to reach me : okcuoglucemil@gmail.com
 
